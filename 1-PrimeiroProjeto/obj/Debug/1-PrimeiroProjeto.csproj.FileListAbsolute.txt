@@ -1,0 +1,6 @@
+c:\users\priscila ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe.config
+c:\users\priscila ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe
+c:\users\priscila ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.pdb
+c:\users\priscila ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csprojResolveAssemblyReference.cache
+c:\users\priscila ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.exe
+c:\users\priscila ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.pdb

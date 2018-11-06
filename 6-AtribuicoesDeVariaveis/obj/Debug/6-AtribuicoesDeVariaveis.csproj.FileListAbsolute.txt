@@ -1,0 +1,5 @@
+C:\Users\Priscila Ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.exe.config
+C:\Users\Priscila Ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.exe
+C:\Users\Priscila Ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.pdb
+C:\Users\Priscila Ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.exe
+C:\Users\Priscila Ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.pdb

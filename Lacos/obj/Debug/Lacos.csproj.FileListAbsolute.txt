@@ -1,0 +1,2 @@
+C:\Users\Priscila Ferrari\Documents\Visual Studio 2015\Projects\AprendendoCShrarp\Lacos\bin\Debug\Lacos.exe.config
+C:\Users\Priscila Ferrari\Documents\Visual Studio 2015\Projects\AprendendoCShrarp\Lacos\obj\Debug\Lacos.csprojResolveAssemblyReference.cache

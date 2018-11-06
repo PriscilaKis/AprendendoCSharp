@@ -1,0 +1,6 @@
+C:\Users\Priscila Ferrari\Documents\Visual Studio 2015\Projects\AprendendoCShrarp\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.exe.config
+C:\Users\Priscila Ferrari\Documents\Visual Studio 2015\Projects\AprendendoCShrarp\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\Priscila Ferrari\Documents\Visual Studio 2015\Projects\AprendendoCShrarp\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.pdb
+C:\Users\Priscila Ferrari\Documents\Visual Studio 2015\Projects\AprendendoCShrarp\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.csprojResolveAssemblyReference.cache
+C:\Users\Priscila Ferrari\Documents\Visual Studio 2015\Projects\AprendendoCShrarp\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\Priscila Ferrari\Documents\Visual Studio 2015\Projects\AprendendoCShrarp\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.pdb

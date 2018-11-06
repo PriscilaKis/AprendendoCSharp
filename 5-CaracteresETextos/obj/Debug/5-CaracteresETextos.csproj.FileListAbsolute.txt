@@ -1,0 +1,6 @@
+C:\Users\Priscila Ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe.config
+C:\Users\Priscila Ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe
+C:\Users\Priscila Ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.pdb
+C:\Users\Priscila Ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csprojResolveAssemblyReference.cache
+C:\Users\Priscila Ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.exe
+C:\Users\Priscila Ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.pdb

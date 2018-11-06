@@ -1,0 +1,6 @@
+C:\Users\Priscila Ferrari\Documents\Visual Studio 2015\Projects\AprendendoCShrarp\12 - CalculaPoupanca2\bin\Debug\12 - CalculaPoupanca2.exe.config
+C:\Users\Priscila Ferrari\Documents\Visual Studio 2015\Projects\AprendendoCShrarp\12 - CalculaPoupanca2\bin\Debug\12 - CalculaPoupanca2.exe
+C:\Users\Priscila Ferrari\Documents\Visual Studio 2015\Projects\AprendendoCShrarp\12 - CalculaPoupanca2\bin\Debug\12 - CalculaPoupanca2.pdb
+C:\Users\Priscila Ferrari\Documents\Visual Studio 2015\Projects\AprendendoCShrarp\12 - CalculaPoupanca2\obj\Debug\12 - CalculaPoupanca2.csprojResolveAssemblyReference.cache
+C:\Users\Priscila Ferrari\Documents\Visual Studio 2015\Projects\AprendendoCShrarp\12 - CalculaPoupanca2\obj\Debug\12 - CalculaPoupanca2.exe
+C:\Users\Priscila Ferrari\Documents\Visual Studio 2015\Projects\AprendendoCShrarp\12 - CalculaPoupanca2\obj\Debug\12 - CalculaPoupanca2.pdb

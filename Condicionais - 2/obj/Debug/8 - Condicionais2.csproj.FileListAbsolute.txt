@@ -1,0 +1,6 @@
+C:\Users\Priscila Ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\Condicionais - 2\bin\Debug\Condicionais - 2.exe.config
+C:\Users\Priscila Ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\Condicionais - 2\bin\Debug\Condicionais - 2.exe
+C:\Users\Priscila Ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\Condicionais - 2\bin\Debug\Condicionais - 2.pdb
+C:\Users\Priscila Ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\Condicionais - 2\obj\Debug\8 - Condicionais2.csprojResolveAssemblyReference.cache
+C:\Users\Priscila Ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\Condicionais - 2\obj\Debug\Condicionais - 2.exe
+C:\Users\Priscila Ferrari\documents\visual studio 2015\Projects\AprendendoCShrarp\Condicionais - 2\obj\Debug\Condicionais - 2.pdb
